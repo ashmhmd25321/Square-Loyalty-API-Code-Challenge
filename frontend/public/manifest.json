@@ -1,0 +1,9 @@
+{
+  "short_name": "Loyalty App",
+  "name": "Loyalty Program Application",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+} 
