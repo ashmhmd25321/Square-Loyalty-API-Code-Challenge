@@ -75,6 +75,7 @@ git clone <repository-url>
 
 1. In the frontend directory:
    cd frontend
+   npm install
    npm start
 
 2. The application will open in your browser at http://localhost:3000
